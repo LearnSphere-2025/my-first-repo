@@ -1,6 +1,6 @@
 # my-first-repo
 
-부트캠프 학습용
+부트캠프 학습용 repo 입니다
 
 This is Abstract. See [Demo] (https://www.google.com/)
 
