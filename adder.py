@@ -1,5 +1,8 @@
-a= int(input())
-b= int(input())
+def add(num1: int, num2: int) -> int:
+    return num1+num2
 
-print(a+b)
-print(a+b)
+if __name__ == '__main__':
+    print(add(3, 7))
+
+
+
